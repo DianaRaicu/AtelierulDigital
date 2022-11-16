@@ -41,7 +41,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ch1.FizzBuzz">
+  <component name="RunManager" selected="Application.ch3.Main">
     <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
       <module name="AtelierulDigitalGoogle" />
@@ -84,8 +84,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ch1.FizzBuzz" />
         <item itemvalue="Application.ch3.Main" />
+        <item itemvalue="Application.ch1.FizzBuzz" />
         <item itemvalue="Application.FizzBuzz" />
         <item itemvalue="Application.Main" />
       </list>
