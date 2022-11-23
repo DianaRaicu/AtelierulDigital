@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f340ca94-d059-4d46-a703-fb168fd35f87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/oo/ch1/BoxingMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/ch1/Fighter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/ch1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/oo/ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge3/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge3/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge3/Fish.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge3/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge3/Spider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/challenge3/TestAnimals.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,10 +44,16 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.oo.ch1.Main">
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FizzBuzz" />
+  <component name="RunManager" selected="Application.TestAnimals">
+    <configuration name="TestAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="challenge3.TestAnimals" />
       <module name="AtelierulDigitalGoogle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="challenge3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -103,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAnimals" />
         <item itemvalue="Application.oo.ch1.Main" />
         <item itemvalue="Application.oo.ex1.Main" />
         <item itemvalue="Application.ch3.Main" />
         <item itemvalue="Application.ch1.FizzBuzz" />
-        <item itemvalue="Application.FizzBuzz" />
       </list>
     </recent_temporary>
   </component>
