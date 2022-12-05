@@ -5,14 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f340ca94-d059-4d46-a703-fb168fd35f87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/patterns/decorator/Beverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/decorator/Chocolate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/decorator/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/decorator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/decorator/Milk.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/decorator/Tea.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/decorator/Topping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/decorator/Whip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/Iterator/ArrayCustomIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/Iterator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/CopiesVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/DurationVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Film.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +48,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.patterns.decorator.Main">
+  <component name="RunManager" selected="Application.patterns.visitor.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="patterns.builder.Main" />
       <module name="AtelierulDigitalGoogle" />
@@ -73,25 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="oo.ch1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.ch1.Main" />
+    <configuration name="patterns.Iterator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.Iterator.Main" />
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="oo.ch1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="oo.ex1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="oo.ex1.Main" />
-      <module name="AtelierulDigitalGoogle" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="oo.ex1.*" />
+          <option name="PATTERN" value="patterns.Iterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,13 +101,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="patterns.visitor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.visitor.Main" />
+      <module name="AtelierulDigitalGoogle" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="patterns.visitor.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.patterns.visitor.Main" />
+        <item itemvalue="Application.patterns.Iterator.Main" />
         <item itemvalue="Application.patterns.decorator.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.TestAnimals" />
-        <item itemvalue="Application.oo.ch1.Main" />
-        <item itemvalue="Application.oo.ex1.Main" />
       </list>
     </recent_temporary>
   </component>
