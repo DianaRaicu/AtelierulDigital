@@ -5,16 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f340ca94-d059-4d46-a703-fb168fd35f87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/patterns/Iterator/ArrayCustomIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/Iterator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Album.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/CopiesVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/DurationVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Film.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/patterns/visitor/Visitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/caculator/ComplexCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/caculator/FatalException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/caculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/caculator/NumberTooHighException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,13 +43,13 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.patterns.visitor.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.builder.Main" />
+  <component name="RunManager" selected="Application.exceptions.caculator.Main">
+    <configuration name="exceptions.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.Main" />
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.builder.*" />
+          <option name="PATTERN" value="exceptions.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAnimals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="challenge3.TestAnimals" />
+    <configuration name="exceptions.caculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exceptions.caculator.Main" />
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="challenge3.*" />
+          <option name="PATTERN" value="exceptions.caculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exceptions.caculator.Main" />
+        <item itemvalue="Application.exceptions.Main" />
         <item itemvalue="Application.patterns.visitor.Main" />
         <item itemvalue="Application.patterns.Iterator.Main" />
         <item itemvalue="Application.patterns.decorator.Main" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.TestAnimals" />
       </list>
     </recent_temporary>
   </component>
