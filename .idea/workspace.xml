@@ -5,12 +5,29 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f340ca94-d059-4d46-a703-fb168fd35f87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/exceptions/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/caculator/ComplexCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/caculator/FatalException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/caculator/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exceptions/caculator/NumberTooHighException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/HashSetEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/challenge1/Leaders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/hashmap/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/hashmap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/collections/hashmap/StudentDatabase.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1io/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1io/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1io/Phonebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1io/Phonebook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch1io/book.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1io/book.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/exchange/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/Currency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/exchange/EUR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/EUR.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/exchange/ExchangeDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/ExchangeDesk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/exchange/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/exchange/RON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/RON.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/exchange/Rate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/Rate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/exchange/USD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/USD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/pairs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/pairs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/pairs/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/pairs/Pair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generics/pairs/Shoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/pairs/Shoe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/io/in" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/in" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,19 +54,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/RAICU/IdeaProjects/AtelierulDigitalGoogle"
   }
-}</component>
-  <component name="RunManager" selected="Application.exceptions.caculator.Main">
-    <configuration name="exceptions.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.Main" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="collections.hashmap" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Leaders">
+    <configuration name="Leaders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.challenge1.Leaders" />
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptions.*" />
+          <option name="PATTERN" value="collections.challenge1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -57,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="exceptions.caculator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.caculator.Main" />
+    <configuration name="collections.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.Main" />
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptions.caculator.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patterns.Iterator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.Iterator.Main" />
+    <configuration name="collections.hashmap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.hashmap.Main" />
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.Iterator.*" />
+          <option name="PATTERN" value="collections.hashmap.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patterns.decorator.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.decorator.Main" />
+    <configuration name="generics.exchange.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.exchange.Main" />
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.decorator.*" />
+          <option name="PATTERN" value="generics.exchange.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="patterns.visitor.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="patterns.visitor.Main" />
+    <configuration name="generics.pairs.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="generics.pairs.Main" />
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="patterns.visitor.*" />
+          <option name="PATTERN" value="generics.pairs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.exceptions.caculator.Main" />
-        <item itemvalue="Application.exceptions.Main" />
-        <item itemvalue="Application.patterns.visitor.Main" />
-        <item itemvalue="Application.patterns.Iterator.Main" />
-        <item itemvalue="Application.patterns.decorator.Main" />
+        <item itemvalue="Application.Leaders" />
+        <item itemvalue="Application.collections.hashmap.Main" />
+        <item itemvalue="Application.collections.Main" />
+        <item itemvalue="Application.generics.pairs.Main" />
+        <item itemvalue="Application.generics.exchange.Main" />
       </list>
     </recent_temporary>
   </component>
