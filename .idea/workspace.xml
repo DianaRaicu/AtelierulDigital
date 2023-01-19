@@ -5,29 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f340ca94-d059-4d46-a703-fb168fd35f87" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/collections/HashSetEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/challenge1/Leaders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/hashmap/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/hashmap/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/collections/hashmap/StudentDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ch1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ch1/RabbitThred.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ch1/rabbitRunning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/Streams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/ch1/Consumer1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/functional/ch2/Producer1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch1io/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1io/Contact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch1io/Phonebook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1io/Phonebook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ch1io/book.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch1io/book.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/exchange/Currency.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/Currency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/exchange/EUR.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/EUR.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/exchange/ExchangeDesk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/ExchangeDesk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/exchange/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/exchange/RON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/RON.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/exchange/Rate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/Rate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/exchange/USD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/exchange/USD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/pairs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/pairs/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/pairs/Pair.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/pairs/Pair.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/generics/pairs/Shoe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/generics/pairs/Shoe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/io/in" beforeDir="false" afterPath="$PROJECT_DIR$/src/io/in" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AtelierulDigitalGoogle.iml" beforeDir="false" afterPath="$PROJECT_DIR$/AtelierulDigitalGoogle.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/AtelierulDigitalGoogle/oo/ch1/BoxingMatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/AtelierulDigitalGoogle/oo/ch1/BoxingMatch.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,25 +42,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/RAICU/IdeaProjects/AtelierulDigitalGoogle"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/RAICU/IdeaProjects/AtelierulDigitalGoogle&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="collections.hashmap" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Leaders">
-    <configuration name="Leaders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.challenge1.Leaders" />
+  <component name="RunManager" selected="Application.FlatMap1">
+    <configuration name="FlatMap1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.FlatMap1" />
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.challenge1.*" />
+          <option name="PATTERN" value="functional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="collections.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.Main" />
+    <configuration name="Streams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functional.Streams" />
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="functional.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,52 +86,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="collections.hashmap.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.hashmap.Main" />
+    <configuration name="Consumer1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.hashmap.*" />
+          <option name="PATTERN" value="functional.ch1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="functional.ch1" />
+      <option name="MAIN_CLASS_NAME" value="functional.ch1.Consumer1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generics.exchange.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.exchange.Main" />
+    <configuration name="Consumer1.consumer_1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.exchange.*" />
+          <option name="PATTERN" value="functional.ch1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="functional.ch1" />
+      <option name="MAIN_CLASS_NAME" value="functional.ch1.Consumer1" />
+      <option name="METHOD_NAME" value="consumer_1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="generics.pairs.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="generics.pairs.Main" />
+    <configuration name="Producer1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AtelierulDigitalGoogle" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="generics.pairs.*" />
+          <option name="PATTERN" value="functional.ch2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="functional.ch2" />
+      <option name="MAIN_CLASS_NAME" value="functional.ch2.Producer1" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Leaders" />
-        <item itemvalue="Application.collections.hashmap.Main" />
-        <item itemvalue="Application.collections.Main" />
-        <item itemvalue="Application.generics.pairs.Main" />
-        <item itemvalue="Application.generics.exchange.Main" />
+        <item itemvalue="Application.FlatMap1" />
+        <item itemvalue="Application.Streams" />
+        <item itemvalue="TestNG.Producer1" />
+        <item itemvalue="TestNG.Consumer1" />
+        <item itemvalue="TestNG.Consumer1.consumer_1" />
       </list>
     </recent_temporary>
   </component>
